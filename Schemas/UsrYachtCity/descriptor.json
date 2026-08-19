@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3aff7adf-f253-425f-890f-acf67a2b7fe6",
+    "Name": "UsrYachtCity",
+    "ModifiedOnUtc": "\/Date(1787057247000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "City",
+    "DependsOn": []
+  }
+}
